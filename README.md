@@ -1,2 +1,2 @@
 # Reactjs website
-http://naqeeb.me/
+naqeeb.me/
